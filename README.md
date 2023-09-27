@@ -1,5 +1,5 @@
-# qrencode-go
-fast qrencode written on go
+# qrencode
+Fast qrencode written on go
 
 ## build
 
